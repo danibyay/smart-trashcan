@@ -1,4 +1,4 @@
-# TrashComputing
+# smart-trashcan
 
 As a user, by introducing empty aluminum cans to the smart trash can, you will get digital points to redeem in online stores.
 Get your points from the trashcan to your NFC card. Then, read the NFC card with your smartphone and get the points into your account.
